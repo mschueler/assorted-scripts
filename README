@@ -1,0 +1,11 @@
+
+ AUTHOR: Mike Schueler
+ EMAIL:  moc.liamg@releuhcs.leahcim
+
+ Licensed under the terms of the WTFPL
+
+This repo will contain some assorted scripts used for inital system configuration.
+
+Most of these scripts are things that I haven't had the the chance to turn into proper Chef cookbooks.
+
+These are written for Ubuntu 10.04 Lucid.
